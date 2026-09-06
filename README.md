@@ -1,5 +1,3 @@
-If you mean a **README** for your GitHub repository showcasing your simple Python programs, you can use this:
-
 # 🐍 My Simple Python Programs
 
 Welcome to my Python programming repository! 🚀
